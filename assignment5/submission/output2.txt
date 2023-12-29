@@ -1,0 +1,11 @@
+(Input file: inputA5.txt)
+
+Stats for hashing using quadratic probing:
+
+ - Mean reads per record: 3.036
+
+ - Final load factor: 0.89
+
+ - Hashing efficiency: 64.03%
+
+ - Longest chain: 26
