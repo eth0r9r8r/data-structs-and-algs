@@ -1,0 +1,11 @@
+(Input file: inputA5.txt)
+
+Stats for hashing using linear probing:
+
+ - Mean reads per record: 112.472
+
+ - Final load factor: 0.89
+
+ - Hashing efficiency: 63.57%
+
+ - Longest chain: 3103
